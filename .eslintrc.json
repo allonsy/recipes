@@ -1,0 +1,7 @@
+{
+  "plugins": ["prettier"],
+  "extends": ["next/core-web-vitals", "eslint-config-next"],
+  "rules": {
+    "prettier/prettier": "error"
+  }
+}
